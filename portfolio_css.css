@@ -6,7 +6,20 @@
 }
 
 /* header text classes */
-.name{
+.myName{
     font-weight: bold;
+    font-size: 46;
+    color:blanchedalmond;
+}
+
+.purpose{
     font-size: 26;
+    color: blanchedalmond;
+}
+
+/* navigation bar*/
+.nav{
+    position: sticky;
+    background-color: chartreuse;
+    border: 1px black;
 }
