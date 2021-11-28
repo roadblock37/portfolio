@@ -1,0 +1,12 @@
+/* Header */
+.header{
+    width: 100%;
+    height: auto;
+    background-color: darkblue;
+}
+
+/* header text classes */
+.name{
+    font-weight: bold;
+    font-size: 26;
+}
